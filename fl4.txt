@@ -1,1 +1,1 @@
-When you want to merge the branch in to other branch type this [git merge branch name]
+When you want to merge the branch in to other branch type this cmd git merge "Name of the branch the you want to merge"
