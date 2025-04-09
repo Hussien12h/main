@@ -1,0 +1,1 @@
+remove the senstive info like api,pass,.DS_Store by typing git rm --cached [File name]

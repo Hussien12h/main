@@ -1,0 +1,2 @@
+branching git type git bracn [the bracn name]
+want to select a new branch type git checkout [the branch You want to select]
